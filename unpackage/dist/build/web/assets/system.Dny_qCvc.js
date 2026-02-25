@@ -1,1 +1,0 @@
-import{g as t}from"./index-ZIMlgC1-.js";const n=t(),e=()=>n.statusBarHeight||20,i=()=>{if(uni.getMenuButtonBoundingClientRect){let{top:t,height:n}=uni.getMenuButtonBoundingClientRect();return n+2*(t-e())}return 40},u=()=>i()+e();export{i as a,u as b,e as g};
