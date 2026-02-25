@@ -1,0 +1,1 @@
+{"version":3,"file":"notice.js","sources":["D:/text/HBuilderX.4.87.2025121004/HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvbm90aWNlL25vdGljZS52dWU"],"sourcesContent":["import MiniProgramPage from 'C:/Users/mlz/Desktop/wallpaper-kt/pages/notice/notice.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}

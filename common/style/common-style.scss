@@ -1,0 +1,12 @@
+view,
+swiper,
+swiper-item {
+	box-sizing: border-box;
+}
+.pageBg {
+	background: linear-gradient(to bottom, transparent, #fff 400rpx), linear-gradient(to right, #336699, #814374);
+	min-height: 80vh;
+}
+.loadingLayout {
+	padding: 30rpx 0;
+}

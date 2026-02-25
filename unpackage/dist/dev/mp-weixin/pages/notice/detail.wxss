@@ -1,0 +1,51 @@
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.noticeLayou .title.data-v-0f737f11 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 30rpx;
+}
+.noticeLayou .title .font.data-v-0f737f11 {
+  font-size: 45rpx;
+  font-weight: 700;
+}
+.noticeLayou .info.data-v-0f737f11 {
+  display: flex;
+  padding: 30rpx;
+}
+.noticeLayou .info .item.data-v-0f737f11 {
+  margin-right: 20rpx;
+  color: #a7a7a7;
+  font-size: 25rpx;
+}
+.noticeLayou .content.data-v-0f737f11 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.noticeLayou .content image.data-v-0f737f11 {
+  width: 60%;
+}
+.noticeLayou .content .text.data-v-0f737f11 {
+  align-self: flex-start;
+  padding-left: 30rpx;
+  font-size: 30rpx;
+  color: #000;
+}
+.noticeLayou .count.data-v-0f737f11 {
+  padding: 30rpx;
+  font-size: 20rpx;
+  color: #a7a7a7;
+}
