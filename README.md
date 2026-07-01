@@ -1,4 +1,4 @@
-# 📝 项目实战复盘：翔翔壁纸（https://static-mp-4c6c8378-1e90-41d1-997d-c0cae6dd7613.next.bspapp.com/#/）
+# 📝 项目实战复盘：翔翔壁纸（https://lian-zhao-8848.github.io/uniapp-vue3-wallpaper/#/）
 
 > **项目定位**：一款基于 UniApp 和 Vue 3 (Composition API) 开发的多终端高清壁纸应用，实现了一套代码多端运行的闭环体验。
 
